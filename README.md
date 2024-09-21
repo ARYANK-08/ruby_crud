@@ -1,5 +1,7 @@
 # From Django to Delight: A Rails CRUD App Journey
 
+Detailed Article : [Click Here!](https://github.com/ARYANK-08/aiwitharyan/tree/main/Ruby/ruby%20on%20rails)
+
 This repository chronicles a Django developer's initial foray into the world of Ruby on Rails, specifically focusing on building a CRUD application. It highlights the key differences and similarities between the two frameworks, emphasizing Rails' streamlined approach to web development.
 
 ## Key Takeaways:
