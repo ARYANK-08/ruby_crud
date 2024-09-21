@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "jquery-rails"
 gem "devise", "~> 4.9", ">= 4.9.4"
-gem "psych", "~> 3.3.2"
+gem "psych", "~> 5.1.2"
 gem "rails", "~> 7.2.1"
 gem "sprockets-rails"
 gem "sqlite3", ">= 1.4"
