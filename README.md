@@ -6,6 +6,9 @@ Building a CRUD application using Ruby on Rails was easier compared to Django. P
 
 Ruby on Rails simplifies web development by utilizing the **MVC (Model-View-Controller)** pattern and its philosophy of "convention over configuration." This approach streamlines code and automates common tasks, making it faster and easier for developers to build, maintain, and scale web applications.
 
+## Snapshot
+![image](https://github.com/user-attachments/assets/3ed029d2-49c4-42a0-9458-3745797afb17)
+
 ## Key Takeaways:
 
 * **MVC Architecture:** Rails strictly adheres to MVC, with clear separation between Models (database interaction), Views (presentation), and Controllers (request handling).
