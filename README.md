@@ -2,7 +2,9 @@
 
 Detailed Article : [Click Here!](https://github.com/ARYANK-08/aiwitharyan/tree/main/Ruby/ruby%20on%20rails)
 
-This repository chronicles a Django developer's initial foray into the world of Ruby on Rails, specifically focusing on building a CRUD application. It highlights the key differences and similarities between the two frameworks, emphasizing Rails' streamlined approach to web development.
+Building a CRUD application using Ruby on Rails was easier compared to Django. PS: I enjoyed seeing **Devise** and **scaffold** in Rails doing all the magic for me! 
+
+Ruby on Rails simplifies web development by utilizing the **MVC (Model-View-Controller)** pattern and its philosophy of "convention over configuration." This approach streamlines code and automates common tasks, making it faster and easier for developers to build, maintain, and scale web applications.
 
 ## Key Takeaways:
 
