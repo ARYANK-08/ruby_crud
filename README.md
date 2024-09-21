@@ -9,7 +9,6 @@ Ruby on Rails simplifies web development by utilizing the **MVC (Model-View-Cont
 ## Key Takeaways:
 
 * **MVC Architecture:** Rails strictly adheres to MVC, with clear separation between Models (database interaction), Views (presentation), and Controllers (request handling).
-* **Directory Structure:** Rails has a well-defined directory structure, making it easy to locate and manage files.
 * **Route Configuration:**  `config/routes.rb`  manages URL patterns and their mapping to controllers and actions.
 * **Scaffolding Magic:**  `rails g scaffold` is a game-changer! It auto-generates CRUD functionality, saving significant time and effort.
 * **Associations:**  Rails makes managing relationships between models (e.g., User has many Friends) incredibly easy.
