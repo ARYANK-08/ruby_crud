@@ -4,6 +4,5 @@ class HomeController < ApplicationController
 
   def about
     @about_me = "My name is Aryan Kyatham"
-    
-  end 
+  end
 end
